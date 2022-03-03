@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrk-brbc
 - :bank: I used to work in TradFi
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Solidity and JS
+- 🌱 I’m currently learning Solidity
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mrk.brbc@gmail.com
